@@ -5,5 +5,10 @@ this is for excluding files
 
 This is singapore user
 Hope all is well
+<<<<<<< HEAD
 hello
 this line is added from BRANCH2
+=======
+this line is added from branch1
+new commit from branch1
+>>>>>>> branch1
